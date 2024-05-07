@@ -49,6 +49,6 @@ export const Container = styled.div`
     border : 1px solid rgba(255, 255, 255, 0.5);
     border-radius: 15px;
     font-weight: bold;
-    overflow: auto;
+    overflow: hidden;
    
 `

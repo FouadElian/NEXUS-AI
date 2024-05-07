@@ -27,7 +27,9 @@ const Looper = () => {
               <Container> ChatBot </Container>
               <Container> Sales Booster </Container>
              
-              <Container>QA bot </Container>
+              <Container>Data Detective</Container>
+              <Container>Conversational Agent</Container>
+              <Container>Messaging Mentor</Container>
        
             
           </Marquee>
@@ -47,15 +49,15 @@ const Looper = () => {
          style={{ marginLeft: '50px' }}
  >
             <Container> Tag Generation </Container>
-            <Container> sdsfsdf</Container>
-            <Container>dfsfdsfsf </Container>
-            <Container> sdfsfsdf</Container>
-            <Container>Fssf </Container>
+            <Container> Attribute Assigmnent</Container>
+            <Container>Categorization engine </Container>
+            <Container> Response labeling</Container>
+            <Container>Message clarification </Container>
 
-            <Container> fsdfsdfsf</Container>
-            <Container>fewfa </Container>
-            <Container>ewafsfsd </Container>
-            <Container>Fssf </Container>
+            <Container> Sales booster</Container>
+            <Container>Conversation tagging</Container>
+            <Container>Utterance categorization</Container>
+            <Container>Interaction tagging</Container>
           
           
           </Marquee>
